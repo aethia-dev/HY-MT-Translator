@@ -26,6 +26,8 @@
 
 **NOTICE:**
 
+We have released the Hy-MT2 series of translation models, offering improved performance and excellent instruction-following capabilities. The link to the new model collection is: https://huggingface.co/collections/tencent/hy-mt2
+
 We are excited to announce our official partnership with WMT26. We welcome all participants to use our HY-MT model during the competition. Teams that use HY-MT and achieve notable results will be eligible for **cash prizes**. For more details, please contact us at hunyuan@tencent.com.
 
 To help you get started with HY-MT training more quickly, we have provided a **Training Tutorial**. You can access it via the [link](#Train-with-LLaMA-Factory).
